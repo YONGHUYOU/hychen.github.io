@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a undergraduate student from [College of CCS](https://ccs.fjnu.edu.cn/main.htm),[Fujian Normal University](https://www.fjnu.edu.cn/main.htm) now (2019-2023) and will pursue the M.S. degree with [Institute of Artificial Intelligence](https://iai.xmu.edu.cn/) ,[Xiamen University](https://www.xmu.edu.cn/) supervised by [Prof. Liang Xiao](https://lxiao.xmu.edu.cn/) (2023-2026). This is my [CV](./mycv.pdf).
+I'm a undergraduate student from [College of CCS](https://ccs.fjnu.edu.cn/main.htm),[Fujian Normal University](https://www.fjnu.edu.cn/main.htm) now (2019-2023) and will pursue the M.S. degree with [Institute of Artificial Intelligence](https://iai.xmu.edu.cn/) ,[Xiamen University](https://www.xmu.edu.cn/) supervised by [Prof. Liang Xiao](https://lxiao.xmu.edu.cn/) (2023-2026). This is my [CV](../mycv.pdf).
 
 A data-driven personal website
 ======
