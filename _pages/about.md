@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm now a third-year master student in Artificail Intelligence at Xiamen University under the supervision of Prof. [Liang Xiao](https://lxiao.xmu.edu.cn/) (IEEE Fellow). Previously, I received my Bachelor degree in computer science from Fujian Normal University and was honored as an Outstanding Graduate in 2019. My research interests include deep learning and computer vision. My research interests include AI for Communications, collaborative vehicular perception and edge computing. This is my [CV](https://yonghuyou.github.io/hychen.github.io/resume.pdf).
+I'm now a third-year master student in Artificail Intelligence at Xiamen University under the supervision of Prof. [Liang Xiao](https://lxiao.xmu.edu.cn/) (IEEE Fellow). Previously, I received my Bachelor degree in computer science from Fujian Normal University and was honored as an Outstanding Graduate in 2019. My research interests include AI for Communications, collaborative vehicular perception and edge computing. This is my [CV](https://yonghuyou.github.io/hychen.github.io/resume.pdf).
 
 News
 ======
