@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm now a third-year master student in Artificail Intelligence at Xiamen University under the supervision of Prof. [Liang Xiao](https://lxiao.xmu.edu.cn/) (IEEE Fellow). Previously, I received my Bachelor degree in computer science from Fujian Normal University and was honored as an Outstanding Graduate in 2019. My research interests include AI for Communications, collaborative vehicular perception and edge computing. This is my [CV](https://yonghuyou.github.io/hychen.github.io/resume_Full.pdf).
+Hello! I'm Hongyi, a third-year master student in Artificail Intelligence at Xiamen University. I'm lucky to be supervised by Prof. [Liang Xiao](https://lxiao.xmu.edu.cn/) (IEEE Fellow). Previously, I received my Bachelor degree in computer science from Fujian Normal University and was honored as an Outstanding Graduate in 2019. I plan to start my Ph.D. studies at Department of Electrical and Computer Engineering, Western University, Canada in Fall 2026. My research interests include AI for communications, wireless security and edge computing, aiming to intelligently orchestrate the dynamic resources while meeting the complex needs of connected systems in terms of security, reliability and performance. This is my [CV](https://yonghuyou.github.io/hychen.github.io/resume_Full.pdf). 
 
 News
 ======
 One paper has been accepted by IEEE Wireless Communications!.
+
 
 Publications
 ======
@@ -26,7 +27,7 @@ Publications
 8. H. Chen, Z. Lin, Y. Zhu, J. Li, L. Xiao, Y. Tang, Y. Zhang, “Reinforcement Learning Based Collaborative Perception for Vehicular Networks,” IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, Dec. 2024.
 9. Z. Lin, H. Chen, L. Xiao, Z. Lv, L. Ye, “RLCVP: Collaborative Vehicular Perception Against Data Fabrication Attacks,” IEEE Wireless Communications and Networking Conference (WCNC), Kuala Lumpur, Malaysia, Apr. 2026.
 10. L. Ye, C. Yu, L. Xiao, J. Li, H. Chen, H. Chen “LLM Based Edge-Assisted UAV Inference Against Jamming,” IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May. 2026.
-11. Z. Lin, L. Xiao, H. Chen, X. Xu, J. Li, “Collaborative LLM Inference for Wireless Applications Against Jamming Attacks,” Submitted to IEEE Transactions on Mobile Computing.
+11. Z. Lin, L. Xiao, H. Chen, X. Xu, J. Li, “Collaborative LLM Inference for Wireless Applications Against Jamming Attacks,” IEEE Transactions on Mobile Computing, Major Revision.
 
 Patents
 ------
@@ -37,6 +38,7 @@ Patents
 Honor and Awards
 ------
 · 2025 National ScholarShip.
+
 · 20th China Post-Graduate Mathematical Contest in Modeling, National First Prize (Top 1%).
 · The 2022 Mathematical Contest in Modeling (MCM), Finalist Winner(top 1%).
 · The 2021 China Undergraduate Mathematical Contest in Modeling (CUMCM), the second prize.
