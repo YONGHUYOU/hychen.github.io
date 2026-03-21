@@ -40,9 +40,13 @@ Honor and Awards
 · 2025 National ScholarShip.
 
 · 20th China Post-Graduate Mathematical Contest in Modeling, National First Prize (Top 1%).
+
 · The 2022 Mathematical Contest in Modeling (MCM), Finalist Winner(top 1%).
+
 · The 2021 China Undergraduate Mathematical Contest in Modeling (CUMCM), the second prize.
+
 · The 13th Chinese Mathematics Competitions (CMC), the second prize.
+
 · The 13th Lanqiao Cup Contest, the second prize.
 
 
