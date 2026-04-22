@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Hongyi Chen"
 description              : &description "personal description"
 url                      : https://yonghuyou.github.io/hychen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
+repository               : "https://yonghuyou.github.io/hychen.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ author:
   name             : "Hongyi Chen"
   avatar           : "profile.png"
   bio              : "Master Student, Xiamen University"
-  location         : "Xiamen"
+  location         : "Xiamen, Fujian, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
