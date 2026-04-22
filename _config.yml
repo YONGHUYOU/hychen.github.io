@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : Hongyi Chen (陈宏毅)"
 title_separator          : "-"
-name                     : &name "Hongyi Chen (陈宏毅)"
+name                     : &name "Hongyi Chen"
 description              : &description "personal description"
 url                      : https://yonghuyou.github.io/hychen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://yonghuyou.github.io/hychen.github.io/" # the subpath of your site, e.g. "/blog"
