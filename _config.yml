@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Hongyi Chen (陈宏毅)"
+title                    : Hongyi Chen (陈宏毅)
 title_separator          : "-"
 name                     : &name "Hongyi Chen"
 description              : &description "personal description"
