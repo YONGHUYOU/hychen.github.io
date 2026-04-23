@@ -81,40 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Hongyi Chen"
-  avatar           : "mys"
+  avatar           : "mys.png"
   bio              : "Master Student, Xiamen University"
   location         : "Xiamen, Fujian, China"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  googlescholar    : "https://scholar.google.com/citations?user=SVX4WRkAAAAJ&hl=zh-CN&oi=ao"
+  email            : "trinkleg64@gmail.com"
+  github           : "https://github.com/YONGHUYOU"
+  linkedin         : "https://www.linkedin.com/in/%E5%AE%8F%E6%AF%85-%E9%99%88-649516369/"
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
