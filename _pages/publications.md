@@ -9,4 +9,5 @@ You can find all my papers by visiting my [Google Scholar profile](https://schol
 
 2026
 ---
-*  Collaborative Vehicular Perception Against Adversarial Attacks: Overview, Challenges, and Potential Solutions
+*  \[<font color=blue>**WCM**</font>]
+*  Z. Lin, L. Xiao, **H. Chen**, Z. Lv, R. Zhao, “Collaborative Vehicular Perception Against Adversarial Attacks: Overview, Challenges and Potential Solutions,” IEEE Wireless Communications.
