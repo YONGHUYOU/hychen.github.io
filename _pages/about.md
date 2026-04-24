@@ -12,9 +12,9 @@ Hello! I'm Hongyi, a third-year master student in Artificail Intelligence at Xia
 
 News
 ======
-**2026.02** One paper has been accepted by IEEE Wireless Communications!
-**2025.10** Awarded Graduate National Scholarship!
-**2025.05** One paper has been accepted by IEEE Transactions on Mobile Computing!
-**2024.12** One paper has been accepted by IEEE Transactions on Vehicular Technology!
-**2024.11** One paper has been accepted by IEEE Transactions on Wireless Communications!
-**2024.08** One paper has been accepted by IEEE GLOBECOM 2024!
+**2026.02** One paper has been accepted by IEEE Wireless Communications!<br>
+**2025.10** Awarded Graduate National Scholarship!<br>
+**2025.05** One paper has been accepted by IEEE Transactions on Mobile Computing!<br>
+**2024.12** One paper has been accepted by IEEE Transactions on Vehicular Technology!<br>
+**2024.11** One paper has been accepted by IEEE Transactions on Wireless Communications!<br>
+**2024.08** One paper has been accepted by IEEE GLOBECOM 2024!<br>
