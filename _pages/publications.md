@@ -32,7 +32,21 @@ You can find all my papers by visiting my [Google Scholar profile](https://schol
 
 2025
 ---
-
+*  \[<b><font color=blue >TMC</font></b>] Collaborative Perception Against Data Fabrication Attacks in Vehicular Networks
+  <br>Z. Lin, L. Xiao, **H. Chen**, and Z. Lv
+  <br><i>IEEE Transactions on Mobile Computing</i>, 2025.
+*  \[<b><font color=blue >TWC</font></b>] Edge-Assisted Collaborative Perception Against Jamming and Interference in Vehicular Networks
+  <br>Z. Lin, L. Xiao, **H. Chen**, Z. Lv, Y. Zhu, Y. Zhang, and Y. Liu
+  <br><i>IEEE Transactions on Wireless Communications</i>, 2025.
+*  \[<b><font color=blue >TVT</font></b>] Reinforcement Learning Based Environment-Aware V2I Anti-Jamming Communications
+  <br>Z. Lin, L. Xiao, **H. Chen**, and Z. Lv
+  <br><i>IEEE Transactions on Vehicular Technology</i>, 2025.
+*  \[<b><font color=blue >JEIT</font></b>] Collaborative Inference for Large Language Models Against Jamming Attacks
+  <br>Z. Lin, L. Xiao, **H. Chen**, X. Xu, and J. Li
+  <br><i>Journal of Electronics & Information Technology</i>, 2025.
 
 2024
 ---
+*  \[<b><font color=blue >GLOBECOM</font></b>] Reinforcement Learning Based Collaborative Perception for Vehicular Networks
+  <br>**H. Chen**, Z. Lin, Y. Zhu, J. Li, L. Xiao, Y. Tang, Y. Zhang
+  <br><i>IEEE Global Communications Conference</i>, Cape Town, South Africa, December, 2024.
