@@ -22,7 +22,7 @@ You can find all my papers by visiting my [Google Scholar profile](https://schol
 *  \[<b><font color=blue >ICASSP</font></b>] LLM Based Edge-Assisted UAV Inference Against Jamming
    <br>L. Ye, C. Yu, L. Xiao, J. Li, H. Chen, and **H. Chen**
   <br><i>IEEE International Conference on Acoustics, Speech, and Signal Processing</i>, Barcelona, Spain, May, 2026.
-*  \[<b><font color=blue >CJE</font></b>] Maritime Anti-Jamming Communications for LLM-assisted CollaborativePerception
+*  \[<b><font color=blue >CJE</font></b>] Maritime Anti-Jamming Communications for LLM-assisted Collaborative Perception
   <br>H. Liu, L. Xiao, W. Lin, P. Zhang, H. Chen, and **H. Chen**, and Z. Tang
   <br><i>Chinese Journal of Electronics</i>, 2026.
 *  \[<b><font color=blue >JEIT</font></b>] Physical Layer Security Game for Large Language Model-Based Inference in the Maritime Network
@@ -44,9 +44,15 @@ You can find all my papers by visiting my [Google Scholar profile](https://schol
 *  \[<b><font color=blue >JEIT</font></b>] Collaborative Inference for Large Language Models Against Jamming Attacks
   <br>Z. Lin, L. Xiao, **H. Chen**, X. Xu, and J. Li
   <br><i>Journal of Electronics & Information Technology</i>, 2025.
+*  \[<b><font color=blue >Patent</font></b>] Multi-Modal Large Language Models Based Anti-Jamming Collaborative Inference Method for Intelligent Terminals
+  <br>L. Xiao, **H. Chen**, Z. Lin, X. Xu, and J. Li
+  <br><i>Chinese Patent</i>, 2025.
 
 2024
 ---
 *  \[<b><font color=blue >GLOBECOM</font></b>] Reinforcement Learning Based Collaborative Perception for Vehicular Networks
-  <br>**H. Chen**, Z. Lin, Y. Zhu, J. Li, L. Xiao, Y. Tang, Y. Zhang
+  <br>**H. Chen**, Z. Lin, Y. Zhu, J. Li, L. Xiao, Y. Tang, and Y. Zhang
   <br><i>IEEE Global Communications Conference</i>, Cape Town, South Africa, December, 2024.
+*  \[<b><font color=blue >Patent</font></b>] Collaborative Vehicular Perception Data Anti-Jamming Transmission Method for High-Precision Object Detection
+  <br>L. Xiao, **H. Chen**, and Z. Lin
+  <br><i>Chinese Patent</i>, 2024.
