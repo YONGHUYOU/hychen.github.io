@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can find all my papers by visiting my [Google Scholar profile](https://scholar.google.com/citations?user=SVX4WRkAAAAJ&hl=zh-CN&oi=ao)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2026
+---
+*  Collaborative Vehicular Perception Against Adversarial Attacks: Overview, Challenges, and Potential Solutions
