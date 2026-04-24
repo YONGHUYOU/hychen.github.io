@@ -23,7 +23,7 @@ You can find all my papers by visiting my [Google Scholar profile](https://schol
    <br>L. Ye, C. Yu, L. Xiao, J. Li, H. Chen, and **H. Chen**
   <br><i>IEEE International Conference on Acoustics, Speech, and Signal Processing</i>, Barcelona, Spain, May, 2026.
 *  \[<b><font color=blue >CJE</font></b>] Maritime Anti-Jamming Communications for LLM-assisted Collaborative Perception
-  <br>H. Liu, L. Xiao, W. Lin, P. Zhang, H. Chen, and **H. Chen**, and Z. Tang
+  <br>H. Liu, L. Xiao, W. Lin, P. Zhang, H. Chen, **H. Chen**, and Z. Tang
   <br><i>Chinese Journal of Electronics</i>, 2026.
 *  \[<b><font color=blue >JEIT</font></b>] Physical Layer Security Game for Large Language Model-Based Inference in the Maritime Network
   <br>H. Chen, L. Xiao, X. Xu, J. Li, Z. Wang, H. Liu, and **H. Chen**
